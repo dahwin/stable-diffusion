@@ -1,0 +1,4 @@
+Important System Upgrade Underway
+Our team is currently deploying a significant upgrade to our server infrastructure to enhance performance and scalability for our growing user base.
+During this period, access to the SoulDubu agent will be temporarily unavailable. We anticipate the maintenance will be complete and full service will be restored within the next 2-3 days.
+This planned upgrade is a crucial step in our development roadmap. We appreciate your patience as we work to improve our platform.
